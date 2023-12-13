@@ -1,0 +1,15 @@
+body {
+  /* Set the background image and define its properties */
+  background-image: url('departure.jpg');
+  background-size: cover; /* Adjust to 'contain' or 'auto' if needed */
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-attachment: fixed; /* Optional: Fixed background */
+  
+  /* Set additional styles for the body, such as color or font */
+  color: #ffffff; /* Set text color to white */
+  font-family: Arial, sans-serif;
+  /* Add other styles as needed */
+}
+
+/* Add more styles for other elements on your webpage */
