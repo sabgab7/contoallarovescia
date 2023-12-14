@@ -30,9 +30,7 @@ body {
     left: 50%; /* Adjust the horizontal position, e.g., 50% centers the container horizontally */
     transform: translate(-50%, -50%); /* Center the container precisely */
     z-index: 1;
-    /* Set minimum width and height based on the font size */
-    min-width: 150px; /* Adjust as needed */
-    min-height: 100px; /* Adjust as needed */
+
 }
 
 #countdown {
